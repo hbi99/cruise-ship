@@ -2,7 +2,9 @@
   "name": "tui-cruise-ship",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "engines": {
+    "node": "9.2.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,7 +25,6 @@
     "gulp-file-include": "^0.8.0",
     "gulp-if": "^1.2.1",
     "gulp-ignore": "^1.2.1",
-    "gulp-imagemin": "^0.6.2",
     "gulp-inject": "^1.0.2",
     "gulp-jshint": "^1.9.2",
     "gulp-less": "^3.0.5",

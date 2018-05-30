@@ -9,15 +9,14 @@
 
 var fs          = require('fs'),
 	path        = require('path'),
-	pckg        = require('./package.json'),
 	colors      = require('colors'),
+    del         = require('del'),
 	gulp        = require('gulp'),
 	$           = require('gulp-load-plugins')(),
 	gutil       = require('gulp-util'),
-	autoprefix  = require('gulp-autoprefixer'),
 	cleanCSS    = require('gulp-clean-css'),
-	replace     = require('gulp-regex-replace'),
-	stylish     = require('jshint-stylish'),
+    browserSync = require('browser-sync'),
+    reload      = browserSync.reload,
 	sequence    = require('run-sequence');
 
 require('gulp-release-tasks')(gulp);
@@ -29,31 +28,25 @@ require('gulp-release-tasks')(gulp);
  *-------------------------------------------------------------------------*/
 
 // variables required
-var pkgName = pckg.name,
-	include_options = {
+var include_options = {
 		prefix    : '@@',
 		basepath  : '@file'
 	},
-	oldVersion = pckg.version,
 	newVersion,
 	// path to all source files
 	srcPaths = {
 		all     : ['.'],
-		html    : ['./**/*.{htm,svg}', '!./index.min.htm', './index.htm'],
-		scripts : [
-			'./res/js/site.js',
-			'./res/js/*.js',
-			'!./res/js/*.min.js'
-		],
-		styles  : ['./res/css/site.less', './res/css/*.less'],
-		images  : ['./res/img/**/*.{jpg,jpeg,png,gif,webp}']
+		html    : ['./src/**/*.{htm,svg}', './src/index.htm'],
+		scripts : ['./src/res/js/site.js', './src/res/js/*.js', '!./src/res/js/*.min.js'],
+		styles  : ['./src/res/css/site.less', './src/res/css/*.less'],
+		images  : ['./src/res/img/**/*.{jpg,jpeg,png,gif,webp}']
 	},
 	// path to where dev files should be placed
 	destPaths = {
-		base    : './res/',
-		script  : './res/js/',
-		styles  : './res/css/',
-		images  : './res/img/'
+		base    : './www/',
+		script  : './www/res/js/',
+		styles  : './www/res/css/',
+		images  : './www/res/img/'
 	};
 
 
@@ -69,7 +62,8 @@ gulp.task('help', function() {
 	console.log('  gulp styles'.cyan       +'\t\tCompiles less files'.grey);
 	console.log('  gulp scripts'.cyan      +'\t\tConcats, minifies and lints javascript files'.grey);
 	console.log('  gulp images'.cyan       +'\t\tOptimizes image files'.grey);
-	console.log('  gulp watch'.cyan        +'\t\tWatch and autocompiles files'.grey);
+	console.log('  gulp watch'.cyan        +'\t\tWatches and autocompiles files'.grey);
+	console.log('  gulp dev'.cyan          +'\t\tCompiles files and watches and starts node-server'.grey);
 	console.log('\n----------------------------------------------------------------------------------\n\n');
 });
 
@@ -79,6 +73,8 @@ gulp.task('help', function() {
  * Declaring tasks
  *
  *-------------------------------------------------------------------------*/
+
+gulp.task('clean', del.bind(null, [destPaths.base]));
 
 gulp.task('styles', function() {
 	return gulp.src(srcPaths.styles[0])
@@ -93,7 +89,7 @@ gulp.task('styles', function() {
 gulp.task('scripts', function () {
 	return gulp.src(srcPaths.scripts[0])
 		.pipe($.fileInclude(include_options))
-	//	.pipe($.uglify())
+		.pipe($.uglify())
 		.pipe($.rename({suffix: '.min'}))
 		.pipe(gulp.dest(destPaths.script))
 		.pipe($.size({title: 'scripts'}));
@@ -103,20 +99,15 @@ gulp.task('scripts', function () {
 // Copy images
 gulp.task('images', function () {
 	return gulp.src(srcPaths.images)
-		.pipe($.imagemin({
-			optimizationLevel: 7,
-			progressive: true
-		}))
 		.pipe(gulp.dest(destPaths.images))
 		.pipe($.size({title: 'images'}));
 });
 
 // Processes html files
 gulp.task('html', function() {
-	return gulp.src(srcPaths.html[2])
+	return gulp.src(srcPaths.html[1])
 		.pipe($.fileInclude(include_options))
-		.pipe($.rename({suffix: '.min'}))
-		.pipe(gulp.dest('.'))
+		.pipe(gulp.dest(destPaths.base))
 		.pipe($.size({title: 'html'}));
 });
 
@@ -124,16 +115,23 @@ gulp.task('html', function() {
 
 // Watch source files and moves them accordingly
 gulp.task('watch', function () {
-	gulp.watch(srcPaths.html.slice(0,2), ['html']);
-	gulp.watch(srcPaths.styles,  ['styles']);
-	gulp.watch(srcPaths.scripts, ['scripts']);
-// 	gulp.watch(srcPaths.images, ['images']);
+    browserSync({
+        notify: false,
+        server: {
+        	index: 'index.htm',
+            baseDir: [destPaths.base]
+        }
+    });
+	gulp.watch(srcPaths.html[0], ['html', reload]);
+	gulp.watch(srcPaths.scripts, ['scripts', reload]);
+	gulp.watch(srcPaths.styles,  ['styles', reload]);
+ 	gulp.watch(srcPaths.images,  ['images', reload]);
 });
 
 
 // This task is for frontend and non EPi development
-gulp.task('PUBL', function (cb) {
-	sequence(['scripts', 'styles', 'images'], cb);
+gulp.task('dev', function (cb) {
+	sequence('clean', ['scripts', 'styles', 'images'], 'html', 'watch', cb);
 });
 
 
