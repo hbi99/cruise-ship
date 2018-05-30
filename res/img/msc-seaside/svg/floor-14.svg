@@ -1,0 +1,282 @@
+<svg id="floor-14" viewBox="0 0 2240 380">
+<g>
+	<path class="floor-base" d="M42.25,207.625l4.5,3.625v1.25
+		c-14.125,0-32.125,11.25-32.125,33.875c-5.375,0-9.25,5.5-9.25,9s0,24.125,0,30.125s5.25,13.375,14.625,13.375s529.75,0,529.75,0
+		L591,350.25h1038l41-51.75c0,0,519.75,0,532.25,0c19.25,0,32.25-70.5,32.25-108.5s-13-108.5-32.25-108.5c-12.5,0-532.25,0-532.25,0
+		l-41-51.75H591l-41.25,51.375c0,0-520.375,0-529.75,0S5.375,88.5,5.375,94.5s0,26.625,0,30.125s3.875,9,9.25,9
+		c0,22.625,18,33.875,32.125,33.875v1.25l-4.5,3.625V207.625z"></path>
+	<rect x="1938.501" y="95.5" class="cabin auera-experience-balcony" width="21.833" height="54.833" data-id="14027"></rect>
+	<rect x="1917.834" y="95.5" class="cabin auera-experience-balcony" width="20.667" height="54.833" data-id="14029"></rect>
+	<rect x="1896.501" y="95.5" class="cabin auera-experience-balcony" width="21.333" height="54.833" data-id="14031"></rect>
+	<rect x="1875.334" y="95.5" class="cabin auera-experience-balcony" width="21.167" height="54.833" data-id="14033"></rect>
+	<rect x="1854.501" y="95.5" class="cabin auera-experience-balcony" width="20.833" height="54.833" data-id="14035"></rect>
+	<rect x="1832.667" y="95.5" class="cabin auera-experience-balcony" width="21.834" height="54.833" data-id="14037"></rect>
+	<rect x="1811.334" y="95.5" class="cabin auera-experience-balcony" width="21.333" height="54.833" data-id="14039"></rect>
+	<rect x="1790.5" y="95.5" class="cabin auera-experience-balcony" width="20.834" height="54.833" data-id="14041"></rect>
+	<rect x="1769" y="95.5" class="cabin auera-experience-balcony" width="21.5" height="54.833" data-id="14045"></rect>
+	<rect x="1747.667" y="95.5" class="cabin auera-experience-balcony" width="21.333" height="54.833" data-id="14049"></rect>
+	<rect x="1726.502" y="95.5" class="cabin auera-experience-balcony" width="21.165" height="54.833" data-id="14051"></rect>
+	<rect x="1705.335" y="95.5" class="cabin auera-experience-balcony" width="21.167" height="54.833" data-id="14053"></rect>
+	<rect x="1683.835" y="95.5" class="cabin auera-experience-balcony" width="21.5" height="54.833" data-id="14055"></rect>
+	<rect x="1662.835" y="95.5" class="cabin auera-experience-balcony" width="21" height="54.833" data-id="14057"></rect>
+	<rect x="1658.5" y="168.5" class="cabin fantastica-experience-inside" width="46.25" height="21.5" data-id="14059"></rect>
+	<rect x="1658.5" y="190" class="cabin fantastica-experience-inside" width="46.25" height="20.25" data-id="14056"></rect>
+	<rect x="1720.75" y="190" class="cabin fantastica-experience-inside" width="46.75" height="20.25" data-id="14044"></rect>
+	<rect x="1720.75" y="168.5" class="cabin fantastica-experience-inside" width="46.75" height="21.5" data-id="14047"></rect>
+	<rect x="1790.75" y="168.5" class="cabin fantastica-experience-inside" width="45.5" height="21.5" data-id="14043"></rect>
+	<rect x="1790.75" y="190" class="cabin fantastica-experience-inside" width="45.5" height="20.25" data-id="14040"></rect>
+	<rect x="1939.375" y="228.916" class="cabin auera-experience-balcony" width="20.833" height="54.834" data-id="14024"></rect>
+	<rect x="1917.708" y="228.916" class="cabin auera-experience-balcony" width="21.667" height="54.834" data-id="14026"></rect>
+	<rect x="1896.375" y="228.916" class="cabin auera-experience-balcony" width="21.333" height="54.834" data-id="14028"></rect>
+	<rect x="1875.208" y="228.916" class="cabin auera-experience-balcony" width="21.167" height="54.834" data-id="14030"></rect>
+	<rect x="1854.375" y="228.916" class="cabin auera-experience-balcony" width="20.833" height="54.834" data-id="14032"></rect>
+	<rect x="1832.541" y="228.916" class="cabin auera-experience-balcony" width="21.834" height="54.834" data-id="14034"></rect>
+	<rect x="1811.208" y="228.916" class="cabin auera-experience-balcony" width="21.333" height="54.834" data-id="14036"></rect>
+	<rect x="1790.374" y="228.916" class="cabin auera-experience-balcony" width="20.834" height="54.834" data-id="14038"></rect>
+	<rect x="1768.874" y="228.916" class="cabin auera-experience-balcony" width="21.5" height="54.834" data-id="14042"></rect>
+	<rect x="1747.541" y="228.916" class="cabin auera-experience-balcony" width="21.333" height="54.834" data-id="14046"></rect>
+	<rect x="1726.376" y="228.916" class="cabin auera-experience-balcony" width="21.165" height="54.834" data-id="14048"></rect>
+	<rect x="1705.209" y="228.916" class="cabin auera-experience-balcony" width="21.167" height="54.834" data-id="14050"></rect>
+	<rect x="1683.709" y="228.916" class="cabin auera-experience-balcony" width="21.5" height="54.834" data-id="14052"></rect>
+	<rect x="1662.709" y="228.916" class="cabin auera-experience-balcony" width="21" height="54.834" data-id="14054"></rect>
+	<rect x="1960.208" y="228.916" class="cabin auera-experience-balcony" width="20.666" height="54.834" data-id="14022"></rect>
+	<rect x="1980.874" y="228.916" class="cabin auera-experience-balcony" width="21.75" height="54.834" data-id="14020"></rect>
+	<polygon class="cabin fantastica-experience-suite" points="1641.001,68.5 1662.835,95.5 1662.835,150.333 
+		1641.001,150.333 	" data-id="14061"></polygon>
+	<polygon class="cabin auera-experience-suite" points="1620.334,43.5 1641.001,68.5 1641.001,150.333 
+		1620.334,150.333 	" data-id="14063"></polygon>
+	<rect x="1599.75" y="43.5" class="cabin fantastica-experience-balcony" width="20.584" height="53.417" data-id="14067"></rect>
+	<rect x="1578.25" y="43.5" class="cabin fantastica-experience-balcony" width="21.5" height="53.417" data-id="14071"></rect>
+	<rect x="1556.5" y="43.5" class="cabin fantastica-experience-balcony" width="21.75" height="53.417" data-id="14073"></rect>
+	<rect x="1536" y="43.5" class="cabin fantastica-experience-balcony" width="20.5" height="53.417" data-id="14075"></rect>
+	<rect x="1514.75" y="43.5" class="cabin fantastica-experience-balcony" width="21.25" height="53.417" data-id="14077"></rect>
+	<rect x="1493.5" y="43.5" class="cabin fantastica-experience-balcony" width="21.25" height="53.417" data-id="14079"></rect>
+	<rect x="1472.75" y="43.5" class="cabin fantastica-experience-balcony" width="20.75" height="53.417" data-id="14081"></rect>
+	<rect x="1450.5" y="43.5" class="cabin fantastica-experience-balcony" width="22.25" height="53.417" data-id="14083"></rect>
+	<rect x="1429.25" y="43.5" class="cabin fantastica-experience-balcony" width="21.25" height="53.417" data-id="14085"></rect>
+	<rect x="1408.25" y="43.5" class="cabin fantastica-experience-balcony" width="21" height="53.417" data-id="14089"></rect>
+	<rect x="1387" y="43.5" class="cabin fantastica-experience-balcony" width="21.25" height="53.417" data-id="14093"></rect>
+	<rect x="1366.25" y="43.5" class="cabin fantastica-experience-balcony" width="20.75" height="53.417" data-id="14097"></rect>
+	<rect x="1345.25" y="43.5" class="cabin fantastica-experience-balcony" width="21" height="53.417" data-id="14101"></rect>
+	<rect x="1323.5" y="43.5" class="cabin fantastica-experience-balcony" width="21.75" height="53.417" data-id="14105"></rect>
+	<rect x="1301" y="43.5" class="cabin fantastica-experience-balcony" width="22.5" height="53.417" data-id="14109"></rect>
+	<rect x="1279.75" y="43.5" class="cabin fantastica-experience-balcony" width="21.25" height="53.417" data-id="14113"></rect>
+	<rect x="1258.5" y="43.5" class="cabin fantastica-experience-balcony" width="21.25" height="53.417" data-id="14119"></rect>
+	<rect x="1237.5" y="43.5" class="cabin fantastica-experience-balcony" width="21" height="53.417" data-id="14123"></rect>
+	<rect x="1216.5" y="43.5" class="cabin fantastica-experience-balcony" width="21" height="53.417" data-id="14127"></rect>
+	<rect x="1195.5" y="43.5" class="cabin fantastica-experience-balcony" width="21" height="53.417" data-id="14131"></rect>
+	<rect x="1174.25" y="43.5" class="cabin fantastica-experience-balcony" width="21.25" height="53.417" data-id="14135"></rect>
+	<rect x="1153" y="43.5" class="cabin fantastica-experience-balcony" width="21.25" height="53.417" data-id="14139"></rect>
+	<rect x="1131.5" y="43.5" class="cabin fantastica-experience-balcony" width="21.5" height="53.417" data-id="14141"></rect>
+	<rect x="1110.833" y="43.5" class="cabin fantastica-experience-balcony" width="20.667" height="53.417" data-id="14143"></rect>
+	<rect x="1089.5" y="43.5" class="cabin fantastica-experience-balcony" width="21.333" height="53.417" data-id="14145"></rect>
+	<rect x="1068.5" y="43.5" class="cabin fantastica-experience-balcony" width="21" height="53.417" data-id="14147"></rect>
+	<rect x="1046.75" y="43.5" class="cabin fantastica-experience-balcony" width="21.75" height="53.417" data-id="14149"></rect>
+	<rect x="1025.25" y="43.5" class="cabin fantastica-experience-balcony" width="21.5" height="53.417" data-id="14151"></rect>
+	<rect x="1004" y="43.5" class="cabin fantastica-experience-balcony" width="21.25" height="53.417" data-id="14153"></rect>
+	<rect x="983" y="43.5" class="cabin fantastica-experience-balcony" width="21" height="53.417" data-id="14155"></rect>
+	<rect x="961.25" y="43.5" class="cabin fantastica-experience-balcony" width="21.75" height="53.417" data-id="14157"></rect>
+	<rect x="940.25" y="43.5" class="cabin fantastica-experience-balcony" width="21" height="53.417" data-id="14159"></rect>
+	<rect x="920" y="43.5" class="cabin fantastica-experience-balcony" width="20.25" height="53.417" data-id="14161"></rect>
+	<rect x="898.25" y="43.5" class="cabin fantastica-experience-balcony" width="21.75" height="53.417" data-id="14165"></rect>
+	<rect x="877.25" y="43.5" class="cabin fantastica-experience-balcony" width="21" height="53.417" data-id="14169"></rect>
+	<rect x="855.75" y="43.5" class="cabin fantastica-experience-balcony" width="21.5" height="53.417" data-id="14173"></rect>
+	<rect x="834" y="43.5" class="cabin fantastica-experience-balcony" width="21.75" height="53.417" data-id="14177"></rect>
+	<rect x="813.5" y="43.5" class="cabin fantastica-experience-balcony" width="20.5" height="53.417" data-id="14181"></rect>
+	<rect x="792" y="43.5" class="cabin fantastica-experience-balcony" width="21.5" height="53.417" data-id="14185"></rect>
+	<rect x="770.5" y="43.5" class="cabin fantastica-experience-balcony" width="21.5" height="53.417" data-id="14187"></rect>
+	<rect x="749" y="43.5" class="cabin fantastica-experience-balcony" width="21.5" height="53.417" data-id="14189"></rect>
+	<rect x="728.5" y="43.5" class="cabin fantastica-experience-balcony" width="20.5" height="53.417" data-id="14191"></rect>
+	<rect x="707.25" y="43.5" class="cabin fantastica-experience-balcony" width="21.25" height="53.417" data-id="14193"></rect>
+	<rect x="685" y="43.5" class="cabin fantastica-experience-balcony" width="22.25" height="53.417" data-id="14195"></rect>
+	<rect x="664.5" y="43.5" class="cabin fantastica-experience-balcony" width="20.5" height="53.417" data-id="14197"></rect>
+	<rect x="643" y="43.5" class="cabin fantastica-experience-balcony" width="21.5" height="53.417" data-id="14199"></rect>
+	<rect x="621.25" y="43.5" class="cabin fantastica-experience-balcony" width="21.75" height="53.417" data-id="14203"></rect>
+	<rect x="599.75" y="43.5" class="cabin fantastica-experience-balcony" width="21.5" height="53.417" data-id="14205"></rect>
+	<polygon class="cabin auera-experience-suite" points="579,69.5 599.75,43.5 599.75,149.5 579,149.5 	" data-id="14211"></polygon>
+	<polygon class="cabin fantastica-experience-suite" points="558.5,95.25 579,69.25 579,149.5 558.5,149.5 	" data-id="14213"></polygon>
+	<rect x="536.75" y="95.25" class="cabin fantastica-experience-balcony" width="21.75" height="54.25" data-id="14215"></rect>
+	<rect x="515.25" y="95.25" class="cabin fantastica-experience-balcony" width="21.5" height="54.25" data-id="14219"></rect>
+	<rect x="493.5" y="95.25" class="cabin fantastica-experience-balcony" width="21.75" height="54.25" data-id="14223"></rect>
+	<rect x="472.75" y="95.25" class="cabin fantastica-experience-balcony" width="20.75" height="54.25" data-id="14227"></rect>
+	<rect x="451.5" y="95.25" class="cabin fantastica-experience-balcony" width="21.25" height="54.25" data-id="14229"></rect>
+	<rect x="429.25" y="95.25" class="cabin fantastica-experience-balcony" width="22.25" height="54.25" data-id="14231"></rect>
+	<rect x="398.5" y="95.25" class="cabin fantastica-experience-balcony" width="30.75" height="54.25" data-id="14233"></rect>
+	<rect x="366.5" y="95.25" class="cabin fantastica-experience-balcony" width="32" height="54.25" data-id="14237"></rect>
+	<rect x="345.25" y="95.25" class="cabin fantastica-experience-balcony" width="21.25" height="54.25" data-id="14241"></rect>
+	<rect x="323.5" y="95.25" class="cabin fantastica-experience-balcony" width="21.75" height="54.25" data-id="14243"></rect>
+	<rect x="302.25" y="95.25" class="cabin fantastica-experience-balcony" width="21.25" height="54.25" data-id="14245"></rect>
+	<rect x="281.25" y="95.25" class="cabin fantastica-experience-balcony" width="21" height="54.25" data-id="14247"></rect>
+	<rect x="259.75" y="95.25" class="cabin fantastica-experience-balcony" width="21.5" height="54.25" data-id="14249"></rect>
+	<rect x="238.5" y="95.25" class="cabin fantastica-experience-balcony" width="21.25" height="54.25" data-id="14251"></rect>
+	<rect x="217.5" y="95.25" class="cabin fantastica-experience-balcony" width="21" height="54.25" data-id="14253"></rect>
+	<rect x="195.75" y="95.25" class="cabin fantastica-experience-balcony" width="21.75" height="54.25" data-id="14255"></rect>
+	<rect x="174.5" y="95.25" class="cabin fantastica-experience-balcony" width="21.25" height="54.25" data-id="14257"></rect>
+	<rect x="153.25" y="95.25" class="cabin fantastica-experience-balcony" width="21.25" height="54.25" data-id="14259"></rect>
+	<rect x="132.25" y="95.25" class="cabin fantastica-experience-balcony" width="21" height="54.25" data-id="14261"></rect>
+	<rect x="110.75" y="95.25" class="cabin fantastica-experience-balcony" width="21.5" height="54.25" data-id="14263"></rect>
+	<rect x="89.25" y="95.25" class="cabin fantastica-experience-balcony" width="21.5" height="54.25" data-id="14265"></rect>
+	<rect x="68.25" y="95.25" class="cabin fantastica-experience-balcony" width="21" height="54.25" data-id="14267"></rect>
+	<rect x="46.75" y="95.25" class="cabin fantastica-experience-balcony" width="21.5" height="54.25" data-id="14269"></rect>
+	<path class="cabin auera-experience-suite" d="M44.25,166.75c1.75,0,2.5,0,2.5,0v-71.5c0,0-18.75,0-23.5,0
+		s-7.75,1.124-7.75,7.125s0,4.75,0,30.75S37.5,166.75,44.25,166.75z" data-id="14271"></path>
+	<polygon class="cabin fantastica-experience-suite" points="1641.291,309.75 1663.125,283.75 1663.125,228.916 
+		1641.291,228.916 	" data-id="14058"></polygon>
+	<polygon class="cabin auera-experience-suite" points="1620.623,334.75 1641.291,309.75 1641.291,228.916 
+		1620.623,228.916 	" data-id="14060"></polygon>
+	<rect x="1600.039" y="282.333" class="cabin fantastica-experience-balcony" width="20.584" height="52.417" data-id="14064"></rect>
+	<rect x="1578.539" y="282.333" class="cabin fantastica-experience-balcony" width="21.5" height="52.417" data-id="14068"></rect>
+	<rect x="1556.789" y="282.333" class="cabin fantastica-experience-balcony" width="21.75" height="52.417" data-id="14070"></rect>
+	<rect x="1536.289" y="282.333" class="cabin fantastica-experience-balcony" width="20.5" height="52.417" data-id="14072"></rect>
+	<rect x="1515.039" y="282.333" class="cabin fantastica-experience-balcony" width="21.25" height="52.417" data-id="14074"></rect>
+	<rect x="1493.789" y="282.333" class="cabin fantastica-experience-balcony" width="21.25" height="52.417" data-id="14076"></rect>
+	<rect x="1472.039" y="282.333" class="cabin fantastica-experience-balcony" width="21.75" height="52.417" data-id="14078"></rect>
+	<rect x="1450.789" y="282.333" class="cabin fantastica-experience-balcony" width="21.25" height="52.417" data-id="14080"></rect>
+	<rect x="1429.539" y="282.333" class="cabin fantastica-experience-balcony" width="21.25" height="52.417" data-id="14082"></rect>
+	<rect x="1408.539" y="282.333" class="cabin fantastica-experience-balcony" width="21" height="52.417" data-id="14086"></rect>
+	<rect x="1387.289" y="282.333" class="cabin fantastica-experience-balcony" width="21.25" height="52.417" data-id="14090"></rect>
+	<rect x="1365.539" y="282.333" class="cabin fantastica-experience-balcony" width="21.75" height="52.417" data-id="14094"></rect>
+	<rect x="1345.539" y="282.333" class="cabin fantastica-experience-balcony" width="20" height="52.417" data-id="14098"></rect>
+	<rect x="1322.789" y="282.333" class="cabin fantastica-experience-balcony" width="22.75" height="52.417" data-id="14102"></rect>
+	<rect x="1301.289" y="282.333" class="cabin fantastica-experience-balcony" width="21.5" height="52.417" data-id="14106"></rect>
+	<rect x="1281.039" y="282.333" class="cabin fantastica-experience-balcony" width="20.25" height="52.417" data-id="14110"></rect>
+	<rect x="1259.789" y="282.333" class="cabin fantastica-experience-balcony" width="21.25" height="52.417" data-id="14114"></rect>
+	<rect x="1238.789" y="282.333" class="cabin fantastica-experience-balcony" width="21" height="52.417" data-id="14118"></rect>
+	<rect x="1216.789" y="282.333" class="cabin fantastica-experience-balcony" width="22" height="52.417" data-id="14122"></rect>
+	<rect x="1194.789" y="282.333" class="cabin fantastica-experience-balcony" width="22" height="52.417" data-id="14124"></rect>
+	<rect x="1173.539" y="282.333" class="cabin fantastica-experience-balcony" width="21.25" height="52.417" data-id="14126"></rect>
+	<rect x="1153.289" y="282.333" class="cabin fantastica-experience-balcony" width="20.25" height="52.417" data-id="14128"></rect>
+	<rect x="1131.789" y="282.333" class="cabin fantastica-experience-balcony" width="21.5" height="52.417" data-id="14130"></rect>
+	<rect x="1111.123" y="282.333" class="cabin fantastica-experience-balcony" width="20.666" height="52.417" data-id="14132"></rect>
+	<rect x="1088.789" y="282.333" class="cabin fantastica-experience-balcony" width="22.334" height="52.417" data-id="14134"></rect>
+	<rect x="1067.789" y="282.333" class="cabin fantastica-experience-balcony" width="21" height="52.417" data-id="14136"></rect>
+	<rect x="1046.039" y="282.333" class="cabin fantastica-experience-balcony" width="21.75" height="52.417" data-id="14138"></rect>
+	<rect x="1024.539" y="282.333" class="cabin fantastica-experience-balcony" width="21.5" height="52.417" data-id="14140"></rect>
+	<rect x="1003.289" y="282.333" class="cabin fantastica-experience-balcony" width="21.25" height="52.417" data-id="14142"></rect>
+	<rect x="982.289" y="282.333" class="cabin fantastica-experience-balcony" width="21" height="52.417" data-id="14144"></rect>
+	<rect x="961.539" y="282.333" class="cabin fantastica-experience-balcony" width="20.75" height="52.417" data-id="14148"></rect>
+	<rect x="940.539" y="282.333" class="cabin fantastica-experience-balcony" width="21" height="52.417" data-id="14152"></rect>
+	<rect x="919.289" y="282.333" class="cabin fantastica-experience-balcony" width="21.25" height="52.417" data-id="14156"></rect>
+	<rect x="897.539" y="282.333" class="cabin fantastica-experience-balcony" width="21.75" height="52.417" data-id="14160"></rect>
+	<rect x="876.539" y="282.333" class="cabin fantastica-experience-balcony" width="21" height="52.417" data-id="14164"></rect>
+	<rect x="855.039" y="282.333" class="cabin fantastica-experience-balcony" width="21.5" height="52.417" data-id="14168"></rect>
+	<rect x="833.289" y="282.333" class="cabin fantastica-experience-balcony" width="21.75" height="52.417" data-id="14172"></rect>
+	<rect x="812.789" y="282.333" class="cabin fantastica-experience-balcony" width="20.5" height="52.417" data-id="14176"></rect>
+	<rect x="791.289" y="282.333" class="cabin fantastica-experience-balcony" width="21.5" height="52.417" data-id="14178"></rect>
+	<rect x="769.789" y="282.333" class="cabin fantastica-experience-balcony" width="21.5" height="52.417" data-id="14180"></rect>
+	<rect x="748.289" y="282.333" class="cabin fantastica-experience-balcony" width="21.5" height="52.417" data-id="14182"></rect>
+	<rect x="727.79" y="282.333" class="cabin fantastica-experience-balcony" width="20.5" height="52.417" data-id="14184"></rect>
+	<rect x="706.54" y="282.333" class="cabin fantastica-experience-balcony" width="21.25" height="52.417" data-id="14186"></rect>
+	<rect x="685.29" y="282.333" class="cabin fantastica-experience-balcony" width="21.25" height="52.417" data-id="14188"></rect>
+	<rect x="663.79" y="282.333" class="cabin fantastica-experience-balcony" width="21.5" height="52.417" data-id="14190"></rect>
+	<rect x="643.29" y="282.333" class="cabin fantastica-experience-balcony" width="20.5" height="52.417" data-id="14192"></rect>
+	<rect x="621.54" y="282.333" class="cabin fantastica-experience-balcony" width="21.75" height="52.417" data-id="14196"></rect>
+	<rect x="600.04" y="282.333" class="cabin fantastica-experience-balcony" width="21.5" height="52.417" data-id="14198"></rect>
+	<polygon class="cabin auera-experience-suite" points="579.29,309.75 600.04,334.75 600.04,229.75 
+		579.29,229.75 	" data-id="14204"></polygon>
+	<polygon class="cabin fantastica-experience-suite" points="558.79,284 579.29,310 579.29,229.75 558.79,229.75 	
+		" data-id="14206"></polygon>
+	<rect x="537.04" y="229.75" class="cabin fantastica-experience-balcony" width="21.75" height="54.25" data-id="14208"></rect>
+	<rect x="515.54" y="229.75" class="cabin fantastica-experience-balcony" width="21.5" height="54.25" data-id="14210"></rect>
+	<rect x="494.79" y="229.75" class="cabin fantastica-experience-balcony" width="20.75" height="54.25" data-id="14214"></rect>
+	<rect x="473.04" y="229.75" class="cabin fantastica-experience-balcony" width="21.75" height="54.25" data-id="14218"></rect>
+	<rect x="451.79" y="229.75" class="cabin fantastica-experience-balcony" width="21.25" height="54.25" data-id="14220"></rect>
+	<rect x="430.54" y="229.75" class="cabin fantastica-experience-balcony" width="21.25" height="54.25" data-id="14222"></rect>
+	<rect x="409.04" y="229.75" class="cabin fantastica-experience-balcony" width="21.5" height="54.25" data-id="14224"></rect>
+	<rect x="387.79" y="229.75" class="cabin fantastica-experience-balcony" width="21.25" height="54.25" data-id="14228"></rect>
+	<rect x="366.79" y="229.75" class="cabin fantastica-experience-balcony" width="21" height="54.25" data-id="14230"></rect>
+	<rect x="345.54" y="229.75" class="cabin fantastica-experience-balcony" width="21.25" height="54.25" data-id="14232"></rect>
+	<rect x="323.79" y="229.75" class="cabin fantastica-experience-balcony" width="21.75" height="54.25" data-id="14234"></rect>
+	<rect x="302.54" y="229.75" class="cabin fantastica-experience-balcony" width="21.25" height="54.25" data-id="14236"></rect>
+	<rect x="281.54" y="229.75" class="cabin fantastica-experience-balcony" width="21" height="54.25" data-id="14238"></rect>
+	<rect x="260.04" y="229.75" class="cabin fantastica-experience-balcony" width="21.5" height="54.25" data-id="14240"></rect>
+	<rect x="238.79" y="229.75" class="cabin fantastica-experience-balcony" width="21.25" height="54.25" data-id="14242"></rect>
+	<rect x="217.79" y="229.75" class="cabin fantastica-experience-balcony" width="21" height="54.25" data-id="14244"></rect>
+	<rect x="196.04" y="229.75" class="cabin fantastica-experience-balcony" width="21.75" height="54.25" data-id="14246"></rect>
+	<rect x="174.79" y="229.75" class="cabin fantastica-experience-balcony" width="21.25" height="54.25" data-id="14248"></rect>
+	<rect x="153.54" y="229.75" class="cabin fantastica-experience-balcony" width="21.25" height="54.25" data-id="14250"></rect>
+	<rect x="132.54" y="229.75" class="cabin fantastica-experience-balcony" width="21" height="54.25" data-id="14252"></rect>
+	<rect x="111.04" y="229.75" class="cabin fantastica-experience-balcony" width="21.5" height="54.25" data-id="14254"></rect>
+	<rect x="89.54" y="229.75" class="cabin fantastica-experience-balcony" width="21.5" height="54.25" data-id="14256"></rect>
+	<rect x="68.54" y="229.75" class="cabin fantastica-experience-balcony" width="21" height="54.25" data-id="14258"></rect>
+	<rect x="47.04" y="229.75" class="cabin fantastica-experience-balcony" width="21.5" height="54.25" data-id="14260"></rect>
+	<path class="cabin auera-experience-suite" d="M44.539,212.5c1.75,0,2.5,0,2.5,0V284c0,0-18.75,0-23.5,0
+		s-7.75-1.124-7.75-7.125c0-6,0-4.749,0-30.75C15.79,220.125,37.79,212.5,44.539,212.5z" data-id="14262"></path>
+	<rect x="609.5" y="118.333" class="cabin fantastica-experience-inside" width="33.167" height="37" data-id="14201"></rect>
+	<rect x="610.5" y="213.334" class="cabin fantastica-experience-inside" width="30.167" height="46.666" data-id="14194"></rect>
+	<rect x="647.333" y="190" class="cabin fantastica-experience-inside" width="46.667" height="20" data-id="14200"></rect>
+	<rect x="647.333" y="168.667" class="cabin fantastica-experience-inside" width="46.667" height="21.333" data-id="14207"></rect>
+	<rect x="792" y="119.333" class="cabin fantastica-experience-inside" width="20.5" height="46" data-id="14183"></rect>
+	<rect x="812.5" y="119.333" class="cabin fantastica-experience-inside" width="20.789" height="46" data-id="14179"></rect>
+	<rect x="833.289" y="119.333" class="cabin fantastica-experience-inside" width="21.75" height="46" data-id="14175"></rect>
+	<rect x="855.039" y="119.333" class="cabin fantastica-experience-inside" width="21.5" height="46" data-id="14171"></rect>
+	<rect x="876.539" y="119.333" class="cabin fantastica-experience-inside" width="21" height="46" data-id="14167"></rect>
+	<rect x="897.539" y="119.333" class="cabin fantastica-experience-inside" width="33.462" height="46" data-id="14163"></rect>
+	<rect x="812.5" y="213.417" class="cabin fantastica-experience-inside" width="21" height="47.083" data-id="14174"></rect>
+	<rect x="833.5" y="213.417" class="cabin fantastica-experience-inside" width="21.083" height="47.083" data-id="14170"></rect>
+	<rect x="854.583" y="213.417" class="cabin fantastica-experience-inside" width="21.917" height="47.083" data-id="14166"></rect>
+	<rect x="876.501" y="213.417" class="cabin fantastica-experience-inside" width="21.001" height="47.083" data-id="14162"></rect>
+	<rect x="897.502" y="213.417" class="cabin fantastica-experience-inside" width="21.167" height="47.083" data-id="14158"></rect>
+	<rect x="918.668" y="213.417" class="cabin fantastica-experience-inside" width="20.833" height="47.083" data-id="14154"></rect>
+	<rect x="939.502" y="213.417" class="cabin fantastica-experience-inside" width="21" height="47.083" data-id="14150"></rect>
+	<rect x="960.502" y="213.417" class="cabin fantastica-experience-inside" width="21" height="47.083" data-id="14146"></rect>
+	<rect x="1153" y="119.5" class="cabin fantastica-experience-inside" width="21.25" height="46" data-id="14137"></rect>
+	<rect x="1174.25" y="119.5" class="cabin fantastica-experience-inside" width="20.25" height="46" data-id="14133"></rect>
+	<rect x="1194.5" y="119.5" class="cabin fantastica-experience-inside" width="22" height="46" data-id="14129"></rect>
+	<rect x="1216.5" y="119.5" class="cabin fantastica-experience-inside" width="21" height="46" data-id="14125"></rect>
+	<rect x="1237.5" y="119.5" class="cabin fantastica-experience-inside" width="21" height="46" data-id="14121"></rect>
+	<rect x="1258.5" y="119.5" class="cabin fantastica-experience-inside" width="21.417" height="46" data-id="14115"></rect>
+	<rect x="1279.917" y="119.5" class="cabin fantastica-experience-inside" width="21.584" height="46" data-id="14111"></rect>
+	<rect x="1301.501" y="119.5" class="cabin fantastica-experience-inside" width="21.666" height="46" data-id="14107"></rect>
+	<rect x="1323.167" y="119.5" class="cabin fantastica-experience-inside" width="21.334" height="46" data-id="14103"></rect>
+	<rect x="1344.501" y="119.5" class="cabin fantastica-experience-inside" width="20.999" height="46" data-id="14099"></rect>
+	<rect x="1365.5" y="119.5" class="cabin fantastica-experience-inside" width="21.917" height="46" data-id="14095"></rect>
+	<rect x="1387.417" y="119.5" class="cabin fantastica-experience-inside" width="21.083" height="46" data-id="14091"></rect>
+	<rect x="1408.5" y="119.5" class="cabin fantastica-experience-inside" width="29.916" height="46" data-id="14087"></rect>
+	<rect x="1408.5" y="213.5" class="cabin fantastica-experience-inside" width="21.039" height="47" data-id="14084"></rect>
+	<rect x="1386.668" y="213.5" class="cabin fantastica-experience-inside" width="21.832" height="47" data-id="14088"></rect>
+	<rect x="1365.5" y="213.5" class="cabin fantastica-experience-inside" width="21.168" height="47" data-id="14092"></rect>
+	<rect x="1344.501" y="213.5" class="cabin fantastica-experience-inside" width="20.999" height="47" data-id="14096"></rect>
+	<rect x="1322.789" y="213.5" class="cabin fantastica-experience-inside" width="21.712" height="47" data-id="14100"></rect>
+	<rect x="1300.502" y="213.5" class="cabin fantastica-experience-inside" width="22.287" height="47" data-id="14104"></rect>
+	<rect x="1279.917" y="213.5" class="cabin fantastica-experience-inside" width="20.585" height="47" data-id="14108"></rect>
+	<rect x="1258.5" y="213.5" class="cabin fantastica-experience-inside" width="21.417" height="47" data-id="14112"></rect>
+	<rect x="1237.5" y="213.5" class="cabin fantastica-experience-inside" width="21" height="47" data-id="14116"></rect>
+	<rect x="1207.502" y="213.5" class="cabin fantastica-experience-inside" width="29.998" height="47" data-id="14120"></rect>
+	<rect x="404.833" y="190" class="cabin fantastica-experience-inside" width="46.667" height="20" data-id="14226"></rect>
+	<rect x="404.833" y="168.667" class="cabin fantastica-experience-inside" width="46.667" height="21.333" data-id="14235"></rect>
+	<rect x="451.79" y="190" class="cabin fantastica-experience-inside" width="46.667" height="20" data-id="14216"></rect>
+	<rect x="451.79" y="168.667" class="cabin fantastica-experience-inside" width="46.667" height="21.333" data-id="14225"></rect>
+	<rect x="515.54" y="190" class="cabin fantastica-experience-inside" width="46.667" height="20" data-id="14212"></rect>
+	<rect x="515.54" y="168.667" class="cabin fantastica-experience-inside" width="46.667" height="21.333" data-id="14221"></rect>
+	<rect x="575.417" y="190" class="cabin fantastica-experience-inside" width="46.667" height="20" data-id="14202"></rect>
+	<rect x="575.417" y="168.667" class="cabin fantastica-experience-inside" width="46.667" height="21.333" data-id="14209"></rect>
+	<rect x="1527" y="190" class="cabin fantastica-experience-inside" width="45.333" height="20.25" data-id="14062"></rect>
+	<rect x="1578.25" y="118.833" class="cabin fantastica-experience-inside" width="31.792" height="36.667" data-id="14069"></rect>
+	<rect x="1579.333" y="224.333" class="cabin fantastica-experience-inside" width="30" height="36.167" data-id="14066"></rect>
+	<rect x="1596.833" y="168.5" class="cabin fantastica-experience-inside" width="35.667" height="30.667" data-id="14065"></rect>
+	<rect x="1960.334" y="95.5" class="cabin auera-experience-balcony" width="20.54" height="54.833" data-id="14025"></rect>
+	<rect x="1980.874" y="95.5" class="cabin auera-experience-balcony" width="21.75" height="54.833" data-id="14023"></rect>
+	<rect x="2002.624" y="95.5" class="cabin auera-experience-balcony" width="20.626" height="54.833" data-id="14021"></rect>
+	<rect x="2023.25" y="95.5" class="cabin auera-experience-balcony" width="21.25" height="54.833" data-id="14019"></rect>
+	<rect x="2044.5" y="95.5" class="cabin auera-experience-balcony" width="21.5" height="54.833" data-id="14015"></rect>
+	<rect x="2066" y="95.5" class="cabin auera-experience-balcony" width="21.25" height="54.833" data-id="14013"></rect>
+	<rect x="2087.25" y="95.5" class="cabin auera-experience-balcony" width="21.25" height="54.833" data-id="14011"></rect>
+	<rect x="2108.5" y="95.5" class="cabin bella-experience-balcony" width="21" height="54.833" data-id="14009"></rect>
+	<rect x="2129.5" y="95.5" class="cabin bella-experience-balcony" width="21.5" height="54.833" data-id="14007"></rect>
+	<rect x="2151" y="95.5" class="cabin bella-experience-balcony" width="20.75" height="54.833" data-id="14005"></rect>
+	<rect x="2002.624" y="228.916" class="cabin auera-experience-balcony" width="20.626" height="54.834" data-id="14018"></rect>
+	<rect x="2023.25" y="228.916" class="cabin auera-experience-balcony" width="21.25" height="54.834" data-id="14016"></rect>
+	<rect x="2044.5" y="228.916" class="cabin auera-experience-balcony" width="21.5" height="54.834" data-id="14014"></rect>
+	<rect x="2066" y="228.916" class="cabin auera-experience-balcony" width="21.25" height="54.834" data-id="14012"></rect>
+	<rect x="2087.25" y="228.916" class="cabin auera-experience-balcony" width="21.25" height="54.834" data-id="14010"></rect>
+	<rect x="2108.5" y="228.916" class="cabin bella-experience-balcony" width="21" height="54.834" data-id="14008"></rect>
+	<rect x="2129.5" y="228.916" class="cabin bella-experience-balcony" width="21.5" height="54.834" data-id="14006"></rect>
+	<rect x="2151" y="228.916" class="cabin bella-experience-balcony" width="20.75" height="54.834" data-id="14004"></rect>
+	<rect x="2127.25" y="168.25" class="cabin auera-experience-suite-with-whirlpool-bath" width="83.25" height="42" data-id="14001"></rect>
+	<path class="cabin auera-experience-suite-with-whirlpool-bath" d="M2210.5,165.25h-38.75V95.5h21.75
+		C2203.25,113.625,2210.625,152.125,2210.5,165.25z" data-id="14003"></path>
+	<path class="cabin auera-experience-suite-with-whirlpool-bath" d="M2210.5,214h-38.75v69.75h21.75
+		C2203.25,265.625,2210.625,227.125,2210.5,214z" data-id="14002"></path>
+</g>
+</svg>

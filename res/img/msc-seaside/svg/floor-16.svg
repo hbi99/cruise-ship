@@ -1,0 +1,56 @@
+<svg id="floor-16" viewBox="0 0 2240 380">
+<g>
+	<path class="floor-base" d="M5,190c0,69.5,40.5,139.5,110,139.5
+		c37.5,0,57.148-17.878,68-28.5h66c22,15.25,75.75,40.5,152.5,40.5c67.25,0,121-27,137.5-37.5h34.863
+		c0,28.137,18.664,48.5,50.137,48.5c32,0,1023,0,1023,0l28.334-34.833h468.996c0,0,5.92,34.083,7.334,42.333
+		c1.25,7.295,4.334,10.334,10.666,10.334c6.334,0,11,0,16.334,0c10.666,0,56.666-86.667,56.666-180.334
+		c0-93.667-46-180.333-56.666-180.333c-5.333,0-10,0-16.333,0s-9.417,3.039-10.667,10.333c-1.414,8.25-7.333,42.333-7.333,42.333
+		h-468.997L1647,27.5c0,0-991,0-1023,0c-31.474,0-50.137,20.363-50.137,48.5H539c-16.5-10.5-70.25-37.5-137.5-37.5
+		C324.75,38.5,271,63.75,249,79h-66c-10.852-10.623-30.5-28.5-68-28.5C45.5,50.5,5,120.5,5,190z"></path>
+	<rect x="2025.668" y="78.333" class="cabin msc-yacht-deluxe-suite" width="31" height="55.667" data-id="16001"></rect>
+	<rect x="1993.668" y="78.333" class="cabin msc-yacht-deluxe-suite" width="32" height="55.667" data-id="16003"></rect>
+	<rect x="1962" y="78.333" class="cabin msc-yacht-deluxe-suite" width="31.668" height="55.667" data-id="16005"></rect>
+	<rect x="1930.667" y="78.333" class="cabin msc-yacht-deluxe-suite" width="31.333" height="55.667" data-id="16007"></rect>
+	<rect x="1898.333" y="78.333" class="cabin msc-yacht-deluxe-suite" width="32.334" height="55.667" data-id="16009"></rect>
+	<rect x="1866.333" y="78.333" class="cabin msc-yacht-deluxe-suite" width="32" height="55.667" data-id="16011"></rect>
+	<rect x="1834.333" y="78.333" class="cabin msc-yacht-deluxe-suite" width="32" height="55.667" data-id="16013"></rect>
+	<rect x="1803.002" y="78.333" class="cabin msc-yacht-deluxe-suite" width="31.331" height="55.667" data-id="16015"></rect>
+	<rect x="1771.668" y="78.333" class="cabin msc-yacht-deluxe-suite" width="31.334" height="55.667" data-id="16021"></rect>
+	<rect x="1739.002" y="78.333" class="cabin msc-yacht-deluxe-suite" width="32.666" height="55.667" data-id="16027"></rect>
+	<rect x="1708.002" y="78.333" class="cabin msc-yacht-deluxe-suite" width="31" height="55.667" data-id="16029"></rect>
+	<rect x="1633.667" y="78.333" class="cabin msc-yacht-royal-suite" width="74.335" height="55.667" data-id="16037"></rect>
+	<rect x="1601.667" y="45" class="cabin msc-yacht-deluxe-suite" width="32" height="55.667" data-id="16041"></rect>
+	<rect x="1570" y="45" class="cabin msc-yacht-deluxe-suite" width="31.667" height="55.667" data-id="16043"></rect>
+	<rect x="1538.334" y="45" class="cabin msc-yacht-deluxe-suite" width="31.666" height="55.667" data-id="16045"></rect>
+	<rect x="1506.333" y="45" class="cabin msc-yacht-deluxe-suite" width="32.001" height="55.667" data-id="16047"></rect>
+	<rect x="1473.999" y="45" class="cabin msc-yacht-deluxe-suite" width="32.334" height="55.667" data-id="16049"></rect>
+	<rect x="1442.333" y="45" class="cabin msc-yacht-deluxe-suite" width="31.666" height="55.667" data-id="16051"></rect>
+	<rect x="1411.333" y="45" class="cabin msc-yacht-deluxe-suite" width="31" height="55.667" data-id="16053"></rect>
+	<rect x="1591.666" y="118.333" class="cabin msc-yacht-inside-suite" width="31.333" height="48.667" data-id="16039"></rect>
+	<rect x="1781.999" y="156.333" class="cabin msc-yacht-inside-suite" width="21.003" height="52" data-id="16019"></rect>
+	<rect x="1760.332" y="156.333" class="cabin msc-yacht-inside-suite" width="21.667" height="52" data-id="16023"></rect>
+	<rect x="1739.002" y="156.333" class="cabin msc-yacht-inside-suite" width="21.33" height="52" data-id="16025"></rect>
+	<rect x="1718.332" y="156.333" class="cabin msc-yacht-inside-suite" width="20.67" height="52" data-id="16031"></rect>
+	<rect x="1696.999" y="156.333" class="cabin msc-yacht-inside-suite" width="21.333" height="52" data-id="16033"></rect>
+	<rect x="1676.999" y="156.333" class="cabin msc-yacht-inside-suite" width="20" height="52" data-id="16035"></rect>
+	<rect x="2025.668" y="244.5" class="cabin msc-yacht-deluxe-suite" width="31" height="55.666" data-id="16002"></rect>
+	<rect x="1993.668" y="244.5" class="cabin msc-yacht-deluxe-suite" width="32" height="55.666" data-id="16004"></rect>
+	<rect x="1962" y="244.5" class="cabin msc-yacht-deluxe-suite" width="31.668" height="55.666" data-id="16006"></rect>
+	<rect x="1930.667" y="244.5" class="cabin msc-yacht-deluxe-suite" width="31.333" height="55.666" data-id="16008"></rect>
+	<rect x="1898.333" y="244.5" class="cabin msc-yacht-deluxe-suite" width="32.334" height="55.666" data-id="16010"></rect>
+	<rect x="1866.333" y="244.5" class="cabin msc-yacht-deluxe-suite" width="32" height="55.666" data-id="16012"></rect>
+	<rect x="1834.333" y="244.5" class="cabin msc-yacht-deluxe-suite" width="32" height="55.666" data-id="16014"></rect>
+	<rect x="1803.002" y="244.5" class="cabin msc-yacht-deluxe-suite" width="31.331" height="55.666" data-id="16016"></rect>
+	<rect x="1771.668" y="244.5" class="cabin msc-yacht-deluxe-suite" width="31.334" height="55.666" data-id="16018"></rect>
+	<rect x="1739.002" y="244.5" class="cabin msc-yacht-deluxe-suite" width="32.666" height="55.666" data-id="16020"></rect>
+	<rect x="1708.002" y="244.5" class="cabin msc-yacht-deluxe-suite" width="31" height="55.666" data-id="16022"></rect>
+	<rect x="1633.667" y="244.5" class="cabin msc-yacht-royal-suite" width="74.335" height="55.666" data-id="16024"></rect>
+	<rect x="1601.667" y="277.833" class="cabin msc-yacht-deluxe-suite" width="32" height="55.667" data-id="16026"></rect>
+	<rect x="1570" y="277.833" class="cabin msc-yacht-deluxe-suite" width="31.667" height="55.667" data-id="16028"></rect>
+	<rect x="1538.334" y="277.833" class="cabin msc-yacht-deluxe-suite" width="31.666" height="55.667" data-id="16030"></rect>
+	<rect x="1506.333" y="277.833" class="cabin msc-yacht-deluxe-suite" width="32.001" height="55.667" data-id="16032"></rect>
+	<rect x="1473.999" y="277.833" class="cabin msc-yacht-deluxe-suite" width="32.334" height="55.667" data-id="16034"></rect>
+	<rect x="1442.333" y="277.833" class="cabin msc-yacht-deluxe-suite" width="31.666" height="55.667" data-id="16036"></rect>
+	<rect x="1411.333" y="277.833" class="cabin msc-yacht-deluxe-suite" width="31" height="55.667" data-id="16038"></rect>
+</g>
+</svg>

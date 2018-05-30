@@ -1,0 +1,175 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title></title>
+<link rel="stylesheet" type="text/css" href="res/css/site.css" />
+<script type="text/javascript" src="res/js/site.min.js"></script>
+</head>
+<body>
+
+<h1>MSC Seaside</h1>
+
+<div class="viewport">
+	<div class="world">
+		<div class="ship show-floors show-cabins">
+			@@include('./res/img/msc-seaside/svg/floor-5.svg')
+			@@include('./res/img/msc-seaside/svg/floor-6.svg')
+			@@include('./res/img/msc-seaside/svg/floor-7.svg')
+			@@include('./res/img/msc-seaside/svg/floor-8.svg')
+			@@include('./res/img/msc-seaside/svg/floor-9.svg')
+			@@include('./res/img/msc-seaside/svg/floor-10.svg')
+			@@include('./res/img/msc-seaside/svg/floor-11.svg')
+			@@include('./res/img/msc-seaside/svg/floor-12.svg')
+			@@include('./res/img/msc-seaside/svg/floor-13.svg')
+			@@include('./res/img/msc-seaside/svg/floor-14.svg')
+			@@include('./res/img/msc-seaside/svg/floor-15.svg')
+			@@include('./res/img/msc-seaside/svg/floor-16.svg')
+			@@include('./res/img/msc-seaside/svg/floor-18.svg')
+		</div>
+	</div>
+</div>
+
+<div class="info"></div>
+<div class="config expanded1">
+	
+	<div class="fieldset">
+		<span class="btn-group">
+			<span data-cmd="camera-mode" data-arg="rotate" class="active">Rotate</span>
+			<span data-cmd="camera-mode" data-arg="pan">Pan</span>
+			<span data-cmd="camera-mode" data-arg="zoom">Zoom</span>
+		</span>
+	</div>
+
+	<div class="divider"></div>
+	<div class="fieldset">
+		<span class="field-name">Background PNG's</span>
+		<span class="field-value">
+			<span class="toggle-btn" data-cmd="toggle-button" data-arg="floor-backgrounds">
+				<input type="checkbox">
+				<span></span>
+			</span>
+		</span>
+	</div>
+	<div class="fieldset">
+		<span class="field-name">Cabins</span>
+		<span class="field-value">
+			<span class="toggle-btn" data-cmd="toggle-button" data-arg="floor-cabins">
+				<input type="checkbox" checked>
+				<span></span>
+			</span>
+		</span>
+	</div>
+	<div class="fieldset">
+		<span class="field-name">Floor outlines</span>
+		<span class="field-value">
+			<span class="toggle-btn" data-cmd="toggle-button" data-arg="floor-outlines">
+				<input type="checkbox" checked>
+				<span></span>
+			</span>
+		</span>
+	</div>
+	<div class="fieldset">
+		<span class="field-name">Info box</span>
+		<span class="field-value">
+			<span class="toggle-btn" data-cmd="toggle-button" data-arg="camera-info">
+				<input type="checkbox">
+				<span></span>
+			</span>
+		</span>
+	</div>
+	<div class="fieldset">
+		<span class="field-name">Extra</span>
+		<span class="field-value">
+			<span class="toggle-btn" data-cmd="toggle-button" data-arg="extra">
+				<input type="checkbox">
+				<span></span>
+			</span>
+		</span>
+	</div>
+	<div class="divider"></div>
+
+	<div class="fieldset">
+		<span class="field-name">Show</span>
+		<span class="field-value">
+			<select data-cmd="select-floor">
+				<option value="all">All floors</option>
+				<option value="floor-5">Floor 5</option>
+				<option value="floor-6">Floor 6</option>
+				<option value="floor-7">Floor 7</option>
+				<option value="floor-8">Floor 8</option>
+				<option value="floor-9">Floor 9</option>
+				<option value="floor-10">Floor 10</option>
+				<option value="floor-11">Floor 11</option>
+				<option value="floor-12">Floor 12</option>
+				<option value="floor-13">Floor 13</option>
+				<option value="floor-14">Floor 14</option>
+				<option value="floor-15">Floor 15</option>
+				<option value="floor-16">Floor 16</option>
+				<option value="floor-18">Floor 18</option>
+			</select>
+		</span>
+	</div>
+
+	<div class="extra">
+		<div class="fieldset">
+			<span class="btn-group">
+				<span data-cmd="camera-mode" data-arg="on-cabins-none" class="active">None</span>
+				<span data-cmd="camera-mode" data-arg="on-cabins-book">Book</span>
+				<span data-cmd="camera-mode" data-arg="on-cabins-map">Map</span>
+			</span>
+		</div>
+
+		<div class="fieldset">
+			<span class="field-name">Cabin Id</span>
+			<span class="field-value">
+				<span class="add-plus" data-cmd="add-plus">+</span>
+				<input type="text" name="cabin-nr" value="1"/>
+			</span>
+		</div>
+		<div class="fieldset">
+			<span class="field-name">Cabin Group</span>
+			<span class="field-value">
+				<select name="cabin-type" data-cmd="select-cabin-type">
+					<option value="bella-experience-inside">Bella Experience - Inside</option>
+					<option value="bella-experience-ocean-view">Bella Experience - Ocean view</option>
+					<option value="bella-experience-balcony">Bella Experience - Balcony</option>
+					<option value="fantastica-experience-inside">Fantastica Experience - Inside</option>
+					<option value="fantastica-experience-ocean-view">Fantastica Experience - Ocean View</option>
+					<option value="fantastica-experience-balcony">Fantastica Experience - Balcony</option>
+					<option value="fantastica-experience-super-family">Fantastica Experience - Super Family</option>
+					<option value="fantastica-experience-suite">Fantastica Experience - Suite</option>
+					<option value="wellness-inside">Wellness - Inside</option>
+					<option value="wellness-ocean-view">Wellness - Ocean View</option>
+					<option value="wellness-balcony">Wellness - Balcony</option>
+					<option value="auera-experience-balcony">Auera Experience - Balcony</option>
+					<option value="auera-experience-suite">Auera Experience - Suite</option>
+					<option value="auera-experience-grand-suite">Auera Experience - Grand Suite</option>
+					<option value="auera-experience-suite-with-whirlpool-bath">Auera Experience - Suite with Whirlpool Bath</option>
+					<option value="msc-yacht-inside-suite">MSC Yacht - Inside Suite</option>
+					<option value="msc-yacht-deluxe-suite">MSC Yacht - Deluxe Suite</option>
+					<option value="msc-yacht-royal-suite">MSC Yacht - Royal Suite</option>
+				</select>
+			</span>
+		</div>
+
+	</div>
+
+</div>
+<!--
+<div class="cabins">
+	<span data-cabin_id="15040">Cabin 15040</span>
+	<span data-cabin_id="15042">Cabin 15042</span>
+	<span data-cabin_id="15184">Cabin 15184</span>
+	<span data-cabin_id="15186">Cabin 15186</span>
+	<span data-cabin_id="15236">Cabin 15236</span>
+	<span data-cabin_id="15037">Cabin 15037</span>
+	<span data-cabin_id="15039">Cabin 15039</span>
+	<span data-cabin_id="15185">Cabin 15185</span>
+	<span data-cabin_id="15187">Cabin 15187</span>
+	<span data-cabin_id="15239">Cabin 15239</span>
+</div>
+-->
+
+</body>
+</html>
